@@ -9,11 +9,11 @@
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>Productivity</string>
+		<string>App Updates</string>
 		<key>GROUP_NAME</key>
-		<string>%NAME%-update-smart</string>
+		<string>%NAME%-update-smart-testing</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>JamfSmartGroupTemplate.xml</string>
+		<string>SmartGroupTemplate-skype.xml</string>
 		<key>NAME</key>
 		<string>Skype</string>
 		<key>POLICY_CATEGORY</key>
@@ -21,7 +21,7 @@
 		<key>POLICY_NAME</key>
 		<string>Install Latest %NAME%</string>
 		<key>POLICY_TEMPLATE</key>
-		<string>JamfPolicyTemplate.xml</string>
+		<string>PolicyTemplate-Skype.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>Skype is a freemium voice over IP service and instant messaging client, currently developed by Microsoft-owned Skype Technologies.</string>
 		<key>SELF_SERVICE_DISPLAY_NAME</key>
@@ -38,7 +38,7 @@
 	<key>MinimumVersion</key>
 	<string>2.3</string>
 	<key>ParentRecipe</key>
-	<string>com.github.autopkg.pkg.Skype</string>
+	<string>com.github.edp-ci.pkg.Skype</string>
 	<key>Process</key>
 	<array>
 		<dict>
