@@ -34,7 +34,7 @@
 		<string>CFBundleShortVersionString</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>2.3</string>
+	<string>1.0.0</string>
 	<key>ParentRecipe</key>
 	<string>com.github.edp-ci.pkg.Skype</string>
 	<key>Process</key>
