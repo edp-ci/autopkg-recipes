@@ -23,7 +23,7 @@ See the following URL for possible LOCALE values:
 	<key>Input</key>
 	<dict>
 		<key>LOCALE</key>
-		<string>en-US</string>
+		<string>it</string>
 		<key>NAME</key>
 		<string>Firefox</string>
 		<key>LATEST_RELEASE</key>
