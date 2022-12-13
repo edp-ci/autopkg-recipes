@@ -19,11 +19,11 @@ See the following URL for possible LOCALE values:
     http://ftp.mozilla.org/pub/firefox/releases/latest/README.txt
 </string>
 	<key>Identifier</key>
-	<string>test.FirefoxSignedPkg</string>
+	<string>com.github.edp-ci.autopkg-recipes.download.Firefox</string>
 	<key>Input</key>
 	<dict>
 		<key>LOCALE</key>
-		<string>en-US</string>
+		<string>it-IT</string>
 		<key>NAME</key>
 		<string>Firefox</string>
 		<key>LATEST_RELEASE</key>
