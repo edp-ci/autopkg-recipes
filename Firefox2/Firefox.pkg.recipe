@@ -4,7 +4,7 @@
    <dict>
       <key>Description</key>
       <key>Identifier</key>
-      <string>com.github.porcodio.pkg.Firefox</string>
+      <string>com.github.edp-ci.pkg.Firefox</string>
       <key>Input</key>
       <dict>
          <key>NAME</key>
@@ -17,7 +17,7 @@
       <key>MinimumVersion</key>
       <string>1.0.0</string>
       <key>ParentRecipe</key>
-      <string>com.github.porcodio.download.Firefox</string>
+      <string>com.github.edp-ci.download.Firefox</string>
       <key>Process</key>
       <array>
         <dict>
